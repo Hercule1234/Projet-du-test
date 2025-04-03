@@ -97,7 +97,6 @@ button.delete:hover {
     background-color: #d32f2f;
 }
 
-/* Animation pour l'ajout et la suppression des tâches */
 li {
     opacity: 0;
     animation: fadeIn 0.5s forwards;
